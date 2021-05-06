@@ -1,0 +1,38 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryKgit/Udemy.git"
+  },
+  "author": "",
+  "browserslist": [
+    "> 1%"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryKgit/Udemy/issues"
+  },
+  "homepage": "https://github.com/DmitryKgit/Udemy#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "babel-loader": "^8.2.2",
+    "core-js": "^3.11.3",
+    "json-server": "^0.16.3",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "es6-promise": "^4.2.8",
+    "nodelist-foreach-polyfill": "^1.2.0"
+  },
+  "keywords": [],
+  "description": ""
+}
